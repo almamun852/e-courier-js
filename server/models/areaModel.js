@@ -1,0 +1,1 @@
+areaModel.js

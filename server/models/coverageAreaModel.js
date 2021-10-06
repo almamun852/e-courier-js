@@ -1,0 +1,1 @@
+coverageAreaModel.js
